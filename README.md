@@ -1,2 +1,2 @@
 # .github
-Test Repository for example data EAEOMICS
+## Test Repository for example data EAEOMICS
